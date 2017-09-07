@@ -1,0 +1,24 @@
+main{
+	max-width: 500px;
+    margin: auto;
+    background: white;
+    padding-top:200px;
+    padding-left: 100px;
+}
+.main{
+	/*border: 2px solid red;*/
+	/*border-radius: 10px;*/
+}
+input{
+	width: 100px;
+	height: 100px;
+	color: rgb(10,50,120);
+}
+p, h1{
+	font-weight: bold;
+	color: rgb(10,5,120);
+}
+.foot{
+	margin-left: 850px;
+	margin-top: 180px;
+}5
